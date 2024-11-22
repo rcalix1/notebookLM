@@ -37,6 +37,7 @@
 ## Data-Driven Insights: Gen AI for Decision-Making 
 
 * https://www.rcalix.com/forecast.html
+* https://www.youtube.com/watch?v=IVn-DmjbPy4
 * Financial Report Analysis
 * Use Case: Investment or Financial Planning
 * Task: Extract key financial metrics and trends from financial statements.
