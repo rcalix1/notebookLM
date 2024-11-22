@@ -77,6 +77,7 @@
 ## Optimization: Strategies for optimizing internal workflows
 
 * Project Management Documentation
+* Example: https://www.mngeo.state.mn.us/workgroup/commons/MN_Geospatial_Commons_Project_Plan_v1.3.pdf
 * Use Case: Team Coordination or Task Tracking
 * Task: Extract deadlines, milestones, and assigned tasks from project documents and meeting notes.
 * Example: "Review our latest project documents and meeting recordings.
