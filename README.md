@@ -6,4 +6,8 @@
 ## Use cases
 
 * Law
+
+## Links
+
+* notebooklm.google.com
 * 
