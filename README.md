@@ -107,5 +107,6 @@
 ## Links
 
 * notebooklm.google.com
+* https://notebooklm.google
 * https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
 * 
