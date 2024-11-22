@@ -52,6 +52,7 @@
 ## Data-Driven Insights: Market Analysis
 
 * Research Paper Summarization
+* Example: https://papers.nips.cc/paper_files/paper/2023/file/007f4927e60699392425f267d43f0940-Paper-Conference.pdf
 * Use Case: Academic or Market Research
 * Task: Summarize lengthy academic papers or industry reports.
 * Example: Here are several research papers on renewable energy.
