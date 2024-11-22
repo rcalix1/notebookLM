@@ -66,7 +66,12 @@
 
 ## Deep Dive Prompt Engineering: Exploring Success Stories, Learning Moments, and Effective Strategies
 
-* hg
+* Dialogue with your notes.
+* When you’re writing something or preparing a presentation, use NotebookLM to assist in exploring your materials.
+* Initiate a dialogue with your own notes.
+* This ability to surface and connect valuable ideas otherwise hidden deep within the  notes or documents is what Steven Johnson finds most valuable about NotebookLM.
+* https://www.fastcompany.com/91217096/googles-notebooklm-is-one-of-the-most-powerful-use-cases-for-ai
+* 
 
 ## Optimization: Strategies for optimizing internal workflows
 
