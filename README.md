@@ -9,7 +9,7 @@
 * Risk and Compliance: Compliance Automation, Risk Analysis and Regulatory Reporting
 * Deep Dive Prompt Engineering: Exploring Success Stories, Learning Moments, and Effective Strategies
 * Optimization: Strategies for optimizing internal workflows
-* Future of Gen AI: Tools and Media (this can be a copy from the AGS Course)
+* Future of Gen AI: Tools and Media (notebookLM)
 * 
 
 ## Use cases
