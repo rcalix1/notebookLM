@@ -34,9 +34,34 @@
 * 
 
 
-## Data-Driven Insights: Gen AI for Decision-Making and Market Analysis
+## Data-Driven Insights: Gen AI for Decision-Making 
 
 * https://www.rcalix.com/forecast.html
+* Financial Report Analysis
+* Use Case: Investment or Financial Planning
+* Task: Extract key financial metrics and trends from financial statements.
+* Example: "Analyze the quarterly financial reports of our top three competitors.
+* What are their revenue trends, profit margins, and any notable financial strategies?
+* Content Curation for Newsletters
+* Use Case: Marketing or Internal Communications
+* Task: Organize and summarize articles, blogs, and other content for distribution.
+* Example: "Gather the latest articles on AI advancements from our preferred sources.
+* Summarize each article and suggest which ones should be included in next week's newsletter.
+
+## Data-Driven Insights: Market Analysis
+
+* Research Paper Summarization
+* Use Case: Academic or Market Research
+* Task: Summarize lengthy academic papers or industry reports.
+* Example: Here are several research papers on renewable energy. Can you summarize the key findings and methodologies of each?
+* Highlight any emerging trends or significant breakthroughs.
+*  Customer Feedback Analysis
+*  Use Case: Product Development or Customer Service
+*  Task: Aggregate and summarize customer reviews or survey responses.
+*  Example: "Here are 200 customer feedback entries for our latest product.
+*  What are the most common praises and complaints?
+*  Suggest areas for improvement based on the feedback."
+* https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
 
 ## Deep Dive Prompt Engineering: Exploring Success Stories, Learning Moments, and Effective Strategies
 
@@ -44,16 +69,42 @@
 
 ## Optimization: Strategies for optimizing internal workflows
 
-* 
+* Project Management Documentation
+* Use Case: Team Coordination or Task Tracking
+* Task: Extract deadlines, milestones, and assigned tasks from project documents and meeting notes.
+* Example: "Review our latest project documents and meeting recordings.
+* What are the upcoming deadlines, and who is responsible for each task?
+* https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
+* Training Materials Optimization
+* Use Case: Employee Onboarding or Continuous Learning
+* Task: Create summaries or highlight important sections from training videos and manuals.
+* Example: "Here are several training videos for our new software tool.
+* Summarize the key functionalities and create a quick reference guide for new employees.
+* HR Policy Reviews
+* Use Case: Human Resources Management
+* Task: Summarize and highlight important sections from HR policies and employee handbooks.
+* Example: "Here are our updated HR policies.
+* Summarize the key changes and highlight any new compliance requirements that employees should be aware of.
+*  Long Vendor Proposal Decks
+*  Use Case: Streamlining Procurement and Decision-Making
+*  Task: Extract and summarize key offers and value propositions from extensive vendor proposals.
+*  Example: "Here are several vendor proposal decks.
+*  Can you summarize what each vendor is offering and what I get for $X? Highlight the main benefits and any unique selling points.
 
 
 ## Risk and Compliance: Compliance Automation, Risk Analysis and Regulatory Reporting
 
 * https://github.com/rcalix1/AI_auditing
 * https://www.youtube.com/watch?v=1uGiNxedn9U&t=12s
-* 
+* Legal Document Analysis
+* Use Case: Contract Management or Compliance
+* Task: Extract and compare key clauses from multiple legal documents.
+* Example: I have several supplier contracts. What are the main differences in the termination clauses?
+* Highlight any potential compliance issues.
+* https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
 
 ## Links
 
 * notebooklm.google.com
+* https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
 * 
