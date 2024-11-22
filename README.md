@@ -7,6 +7,16 @@
 
 * Law
 
+## Law cases
+
+* link
+
+## AI auditing
+
+* https://github.com/rcalix1/AI_auditing
+* https://www.youtube.com/watch?v=1uGiNxedn9U&t=12s
+* 
+
 ## Links
 
 * notebooklm.google.com
