@@ -54,7 +54,8 @@
 * Research Paper Summarization
 * Use Case: Academic or Market Research
 * Task: Summarize lengthy academic papers or industry reports.
-* Example: Here are several research papers on renewable energy. Can you summarize the key findings and methodologies of each?
+* Example: Here are several research papers on renewable energy.
+* Can you summarize the key findings and methodologies of each?
 * Highlight any emerging trends or significant breakthroughs.
 *  Customer Feedback Analysis
 *  Use Case: Product Development or Customer Service
