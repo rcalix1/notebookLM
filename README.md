@@ -1,5 +1,7 @@
 # notebookLM
 
+* AIBT
+
 * NotebookLM (Google NotebookLM) is a research and note-taking online tool developed by Google Labs
 * it uses artificial intelligence (AI), specifically Google Gemini, to assist users in interacting with their documents.
 * goal is  to assist users in interacting with their documents.
