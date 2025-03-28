@@ -92,17 +92,24 @@
 * Example: "Review our latest project documents and meeting recordings.
 * What are the upcoming deadlines, and who is responsible for each task?
 * https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
-* Training Materials Optimization
+
+
+## Training Materials Optimization
+
 * Use Case: Employee Onboarding or Continuous Learning
 * Task: Create summaries or highlight important sections from training videos and manuals.
 * Example: "Here are several training videos for our new software tool.
 * Summarize the key functionalities and create a quick reference guide for new employees.
-* HR Policy Reviews
+
+## HR Policy Reviews
+
 * Use Case: Human Resources Management
 * Task: Summarize and highlight important sections from HR policies and employee handbooks.
 * Example: "Here are our updated HR policies.
 * Summarize the key changes and highlight any new compliance requirements that employees should be aware of.
-*  Long Vendor Proposal Decks
+
+  
+## Long Vendor Proposal Decks
 *  Use Case: Streamlining Procurement and Decision-Making
 *  Task: Extract and summarize key offers and value propositions from extensive vendor proposals.
 *  Example: "Here are several vendor proposal decks.
