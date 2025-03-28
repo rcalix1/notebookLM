@@ -63,7 +63,10 @@
 * Example: Here are several research papers on renewable energy.
 * Can you summarize the key findings and methodologies of each?
 * Highlight any emerging trends or significant breakthroughs.
-*  Customer Feedback Analysis
+
+  
+## Customer Feedback Analysis
+
 *  Use Case: Product Development or Customer Service
 *  Task: Aggregate and summarize customer reviews or survey responses.
 *  Example: "Here are 200 customer feedback entries for our latest product.
