@@ -136,6 +136,15 @@
 
 ![link](franceTimeline.png)
 
+## Gen Image from notebookLM text
+
+* https://en.wikipedia.org/wiki/History_of_France
+* load link on notebookLm
+* then ask notebook lm to generate prompts about the text that you can use to generate images
+* "joan of ark leads the french army"
+
+![link](JoanOfarc.png)
+
 ## Links
 
 * notebooklm.google.com
