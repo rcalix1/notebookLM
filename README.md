@@ -127,6 +127,15 @@
 * Highlight any potential compliance issues.
 * https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
 
+## Visuals with napkin.ai
+
+* https://en.wikipedia.org/wiki/History_of_France
+* load link on notebookLm
+* and get timeline
+* paste timeline text to napkin.ai
+
+!(link)[franceTimeline.png]
+
 ## Links
 
 * notebooklm.google.com
