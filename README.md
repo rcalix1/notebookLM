@@ -46,7 +46,9 @@
 * Example: "Analyze the quarterly financial reports of our top three competitors.
 * What are their revenue trends, profit margins, and any notable financial strategies?
 * Content Curation for Newsletters
-* Use Case: Marketing or Internal Communications
+
+## Use Case: Marketing or Internal Communications
+
 * Task: Organize and summarize articles, blogs, and other content for distribution.
 * Example: "Gather the latest articles on AI advancements from our preferred sources.
 * Summarize each article and suggest which ones should be included in next week's newsletter.
