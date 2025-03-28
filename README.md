@@ -134,7 +134,7 @@
 * and get timeline
 * paste timeline text to napkin.ai
 
-!(link)[franceTimeline.png]
+![link](franceTimeline.png)
 
 ## Links
 
