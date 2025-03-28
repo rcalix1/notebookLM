@@ -132,6 +132,7 @@
 * https://en.wikipedia.org/wiki/History_of_France
 * load link on notebookLm
 * and get timeline
+* napkin.ai
 * paste timeline text to napkin.ai
 
 ![link](franceTimeline.png)
