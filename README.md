@@ -10,7 +10,7 @@
 * released in September 2024, gained media attention for its ability to condense complex documents into engaging podcasts
 * NotebookLM will summarize them and make interesting connections between topics, all powered by Gemini 1.5’s multimodal understanding capabilities
 * link
-* 
+  
 
 # Business Topics and Use cases
 
