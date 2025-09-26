@@ -107,6 +107,7 @@
 * Task: Summarize and highlight important sections from HR policies and employee handbooks.
 * Example: "Here are our updated HR policies.
 * Summarize the key changes and highlight any new compliance requirements that employees should be aware of.
+* https://www.lsu.edu/hrm/files/2022/staff_handbook_2024.pdf
 
   
 ## Long Vendor Proposal Decks
