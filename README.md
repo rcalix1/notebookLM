@@ -425,5 +425,5 @@ Use the AI's answer to reinforce the message:
 
 ---
 
-Let me know if you want these as real documents (PDF/Docx) to upload or for the audience to test live.
+
 
