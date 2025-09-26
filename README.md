@@ -131,6 +131,7 @@
 * Example: I have several supplier contracts. What are the main differences in the termination clauses?
 * Highlight any potential compliance issues.
 * https://www.linkedin.com/pulse/notebooklm-case-studies-treefanevents-rrnzc
+* https://assets.iqt.org/pdfs/IQTLabs_RoBERTaAudit_Dec2022_final.pdf/web/viewer.html
 
 ## Visuals with napkin.ai
 
