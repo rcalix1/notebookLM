@@ -115,6 +115,10 @@
 *  Task: Extract and summarize key offers and value propositions from extensive vendor proposals.
 *  Example: "Here are several vendor proposal decks.
 *  Can you summarize what each vendor is offering and what I get for $X? Highlight the main benefits and any unique selling points.
+*  https://www.alumni.hbs.edu/Documents/events/NVCPitchDeckTemplate.pdf
+*  https://sites.ced.ncsu.edu/design-and-pitch/wp-content/uploads/sites/13/2020/05/Pitch-Example-Air-BnB-PDF.pdf
+*  https://www.uvic.ca/gustavson/_assets/docs/pitch-deck-template-web.pdf
+*  
 
 
 ## Risk and Compliance: Compliance Automation, Risk Analysis and Regulatory Reporting
