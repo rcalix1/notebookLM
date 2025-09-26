@@ -431,5 +431,12 @@ Use the AI's answer to reinforce the message:
 
 ---
 
+---
 
+
+🎓 About
+
+This material is part of the "NotebookLM" masterclass by Ricardo Calix, on the use of Generative AI for Business. For more information and materials visit:
+
+Link: www.rcalix.com
 
